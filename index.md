@@ -1,3 +1,10 @@
+# Welcome to the world of CRCREWSO
+
+If you are here for one of my projects:
+- [Dicom Strict Compare](http://dsc.crcrewso.ca)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/crcrewso/crcrewso.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
