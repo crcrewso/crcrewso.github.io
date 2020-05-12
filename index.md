@@ -2,7 +2,9 @@
 
 If you are here for one of my projects:
 - [Dicom Strict Compare](http://dsc.crcrewso.ca)
+  - A batch comparison utility for DICOM RT Dose files. This code was originally written to make my life easier for commissioning Eclipse 15. 
 - testing
+- [Repository List](https://github.com/crcrewso?tab=repositories)
 
 # Who Am I?
 
