@@ -2,4 +2,4 @@
 Github Page 
 
 
-[Dicom Strict Compare](dsc.crcrewso.ca)
+[Dicom Strict Compare](http://dsc.crcrewso.ca)
